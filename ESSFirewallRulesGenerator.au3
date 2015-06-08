@@ -19,7 +19,7 @@
 Title ..........: Firewall-Rules Generator
 Version ........: 1.2
 Language .......: English
-Description ....: Creates a settings file for ESSs firewall based on a IP list.
+Description ....: Creates a settings file for ESSs firewall based on an IP list.
 Author .........: rugk - https://forum.eset.com/user/3952-rugk/
 Creation date ..: 2014-02-18
 AutoIt version .: 3.3.12.0
