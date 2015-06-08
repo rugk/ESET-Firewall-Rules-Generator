@@ -3,7 +3,7 @@
 If you want to create a pull request please follow the following guide:
 
 1. Use **Tidy** which is included in SciTEAutoIt3 to tidy up your source code. Disable the option *region_indent* to prevent
-the regions to be intended. Otherwise the default options are suitable.
+the regions to be intended. Except this the default options are suitable.
 2. Your script **must** pass AU3Check **without any errors or warnings** with default parameters.
 3. **Test your source.** Test using the script in compiled and not compiled form.
 4. Try to follow the [Best coding practices of AutoIt] (https://www.autoitscript.com/wiki/Best_coding_practices) (especially the "Names of Variables" part).
