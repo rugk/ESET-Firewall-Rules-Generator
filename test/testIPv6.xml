@@ -8,7 +8,7 @@
       <NODE NAME="@My profile" TYPE="SUBNODE">
        <NODE NAME="EPFWDATA" TYPE="XML" XML_VERSION="2">
         <RULES>
-         <RULE ID="1" NAME="testIPv6" PROTO="101" DIR="3" ACTION="0" DISABLED="0" MODIFIED="2015/03/29 14:57:29" USER_NAME="ASROCK-PC\Roland">
+         <RULE ID="1" NAME="testIPv6" PROTO="101" DIR="3" ACTION="0" DISABLED="0" EXT_ACTION="1" MODIFIED="2015/06/08 00:00:00" USER_NAME="FirewallRulesGenerator\ByRugk">
           <REMOTE>
            <IP6_ADDR ADDRESS="2001:db8::8d3:0:0:0" />
            <IP_ADDR ADDRESS="127.0.0.1" />
@@ -33,6 +33,7 @@
 <!--
 Title: testIPv6
 Product: ESET Smart Security
-Description: This is a settings file for ESET Smart Security with a Firewall rule, which was created by the Firewall-Rules Generator v1.1 from rugk. More information about this tool you can get here: https://forum.eset.com/index.php?showtopic=4158
+Module: Firewall
+Description: This is a settings file for ESET Smart Security with a Firewall rule, which was created by the Firewall-Rules Generator v1.2 from rugk. More information about this tool you can get here: https://forum.eset.com/index.php?showtopic=4158
 Notes: This rule contains 8 IP addresses. (1x IPv4 and 7x IPv6)
 -->
