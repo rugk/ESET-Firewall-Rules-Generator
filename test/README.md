@@ -3,7 +3,8 @@ These files are test files for the ESET Firewall-Rules-Generator. Try to convert
 
 ## Sources
 The Zeus Tracker IP Block List (*ZeuS-Tracker IP-Block-List by abuse.ch.txt*) is from [abuse.ch] (https://zeustracker.abuse.ch/blocklist.php).
-Last updated: 08 June 2015
+
+Last updated in this repo: 08 June 2015
 
 ## Notes
 * File testIPv6.txt deliberately contains an wrong IP at line 3. If you convert the file you should see an error message.
