@@ -23,7 +23,7 @@ Description ....: Creates a settings file for ESSs firewall based on an IP list.
 Author .........: rugk - https://forum.eset.com/user/3952-rugk/
 Creation date ..: 2014-02-18
 AutoIt version .: 3.3.12.0
-AutoIt3Wrapper .: 14.801.2025.0
+AutoIt3Wrapper .: 15.503.1200.2
 License ........: MIT license. For more information have a look at the file "License".
 Website ........: https://forum.eset.com/index.php?showtopic=4158
 Notes ..........: The Icon is based on a picture from Nemo (http://pixabay.com/en/firewall-security-internet-web-29940/ ©C0 Public
