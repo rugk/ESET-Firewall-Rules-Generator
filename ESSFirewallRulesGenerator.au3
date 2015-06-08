@@ -24,7 +24,7 @@ Author .........: rugk - https://forum.eset.com/user/3952-rugk/
 Creation date ..: 2014-02-18
 AutoIt version .: 3.3.12.0
 AutoIt3Wrapper .: 15.503.1200.2
-License ........: MIT license. For more information have a look at the file "License".
+License ........: MIT license. For more information have a look at the file "License.txt" or start the script with "/license".
 Website ........: https://forum.eset.com/index.php?showtopic=4158
 Notes ..........: The Icon is based on a picture from Nemo (http://pixabay.com/en/firewall-security-internet-web-29940/ ©C0 Public
 				  Domain) and from crisg (https://openclipart.org/detail/182735/check-list-by-crisg-182735 ©C0 Public Domain).
