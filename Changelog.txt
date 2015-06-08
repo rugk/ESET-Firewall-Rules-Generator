@@ -1,0 +1,23 @@
+Changelog for ESET-Firewall Rules Generator by rugk
+__________________________________________________________________
+
+* changes/bug fixes
++ new features
+- removed features
+~ other information
+
+v 1.2	2015-06-08
++ added /license parameter
+* added line "Module" in comments written to the end of the XML file
+* switched from CC-BY license to MIT license as this is much more appropriate for software
+
+v 1.1	2015-03-29
++ added support for IPv6
+* minor bug fixes
+* renamed some variables and other small code changes
+
+v 1.0	2015-02-19
+~ first version released
+
+v 0.1	2015-02-18
+~ started development

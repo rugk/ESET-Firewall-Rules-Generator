@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ESET>
+ <SECTION ID="1000103">
+  <SETTINGS>
+   <PLUGINS>
+    <PLUGIN ID="1000200">
+     <PROFILES>
+      <NODE NAME="@My profile" TYPE="SUBNODE">
+       <NODE NAME="EPFWDATA" TYPE="XML" XML_VERSION="2">
+        <RULES>
+         <RULE ID="1" NAME="testIPv6" PROTO="101" DIR="3" ACTION="0" DISABLED="0" MODIFIED="2015/03/29 14:57:29" USER_NAME="ASROCK-PC\Roland">
+          <REMOTE>
+           <IP6_ADDR ADDRESS="2001:db8::8d3:0:0:0" />
+           <IP_ADDR ADDRESS="127.0.0.1" />
+           <IP6_ADDR ADDRESS="2001:db8::8d3:0:0:0" />
+           <IP6_ADDR ADDRESS="2001:0db8:85a3:08d3:1319:8a2e:0370:7344" />
+           <IP6_ADDR ADDRESS="::ffff:127.0.0.1" />
+           <IP6_ADDR ADDRESS="2001:0db8:0:0:0:0:1428:57ab" />
+           <IP6_ADDR ADDRESS="2001:db8::1428:57ab" />
+           <IP6_ADDR ADDRESS="2001:DB8::8:800:200C:417A" />
+          </REMOTE>
+         </RULE>
+        </RULES>
+       </NODE>
+      </NODE>
+     </PROFILES>
+    </PLUGIN>
+   </PLUGINS>
+  </SETTINGS>
+ </SECTION>
+</ESET>
+
+<!--
+Title: testIPv6
+Product: ESET Smart Security
+Description: This is a settings file for ESET Smart Security with a Firewall rule, which was created by the Firewall-Rules Generator v1.1 from rugk. More information about this tool you can get here: https://forum.eset.com/index.php?showtopic=4158
+Notes: This rule contains 8 IP addresses. (1x IPv4 and 7x IPv6)
+-->
