@@ -5,7 +5,7 @@
 #AutoIt3Wrapper_Icon=.\Icon\Icon.ico
 #AutoIt3Wrapper_Res_Description=Firewall-Rules Generator
 #AutoIt3Wrapper_Res_Fileversion=1.2.0.0
-#AutoIt3Wrapper_Res_LegalCopyright=© by rugk, licensed under a MIT license (Expat)
+#AutoIt3Wrapper_Res_LegalCopyright=Â© by rugk, licensed under a MIT license (Expat)
 #AutoIt3Wrapper_Res_Field=CompanyName|rugk
 #AutoIt3Wrapper_Res_Field=ProductName|Firewall-Rules Generator
 #AutoIt3Wrapper_Res_Field=OriginalFilename|ESSFirewallRulesGenerator.exe
@@ -26,8 +26,8 @@ AutoIt version .: 3.3.12.0
 AutoIt3Wrapper .: 15.503.1200.2
 License ........: MIT license. For more information have a look at the file "License.txt" or start the script with "/license".
 Website ........: https://forum.eset.com/index.php?showtopic=4158
-Notes ..........: The Icon is based on a picture from Nemo (http://pixabay.com/en/firewall-security-internet-web-29940/ ©C0 Public
-				  Domain) and from crisg (https://openclipart.org/detail/182735/check-list-by-crisg-182735 ©C0 Public Domain).
+Notes ..........: The Icon is based on a picture from Nemo (http://pixabay.com/en/firewall-security-internet-web-29940/ Â©C0 Public
+				  Domain) and from crisg (https://openclipart.org/detail/182735/check-list-by-crisg-182735 Â©C0 Public Domain).
 #ce ===============================================================================================================================
 
 #Region INCLUDES
@@ -59,7 +59,7 @@ Global Const $license = 'Copyright (c) 2015 rugk' & @CRLF & @CRLF & _ ; This is 
 		'IN THE SOFTWARE.'
 #EndRegion CONSTANTS
 
-#Region VARIBLES
+#Region VARIABLES
 Global $sInputFile, $sOutputFile
 Global $sRuleName
 Global $sXMLcode = '', $sWrongIPsLog = ''
@@ -73,7 +73,7 @@ Global $bConsole = False ;debugging: True
 Global $bWriteWrongIPLog = True
 
 Local $bIsActivated = True, $sDirection = "both", $sAction = "deny", $bLog = False, $bNotifyUser = False
-#EndRegion VARIBLES
+#EndRegion VARIABLES
 
 #Region PARAMETER-MANAGMENT
 Local $actPar
