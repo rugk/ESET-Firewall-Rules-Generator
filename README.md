@@ -1,7 +1,7 @@
 # ESET-Firewall-Rules-Generator
 This is a small tool for [ESET Smart Security] (https://forum.eset.com/forum/23-eset-smart-security/) which allows an easy creation of a firewall rules with many IPs.
 
-## How to compile
+## How to build
 You need to download the following components. It only works on Windows.
 * [AutoIt] (https://www.autoitscript.com) v 3.3.12.0
 * [SciTE4AutoIt3] (https://www.autoitscript.com/site/autoit-script-editor/downloads/) or (just) AutoItWrapper v 15.503.1200.2 (updated 5/4/2015)
