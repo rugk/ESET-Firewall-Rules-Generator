@@ -10,5 +10,5 @@ the regions to be intended. Except this the default options are suitable.
 If you want to clean up some variables which do not fit to this scheme (I'm sure there are some...) feel free to create a pull request.
 
 
-If you contribute to this repository you accept that your work will be published under the license which is declared in license.txt.
+If you contribute to this repository you accept that your work will be published under the license which is declared in LICENSE.txt.
 If you do not accept this you may either do not contribute or request a license switch. (just create an issue) If you do so please provide significant reasons.
