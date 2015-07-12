@@ -8,7 +8,7 @@ You need to download the following components. It only works on Windows.
 
 If you are unsure which version to download just download the newest version.
 Even if I did not listed the newest version here it may work with the newest one.
-I'm always trying to use the newest version of AutoIt.
+I'm always trying to use the latest version of AutoIt.
 
 Then go on:
 
