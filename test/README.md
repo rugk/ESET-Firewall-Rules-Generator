@@ -8,4 +8,4 @@ Last updated in this repo: 08 June 2015
 
 ## Notes
 * The file testIPv6.txt deliberately contains a wrong IP at line 3. If you convert the file you should see an error message.
-* **Important:** If you want to use the Zeus Tracker IP Block List please download the last version from abuse.ch and generate the settings file by yourself. The version here is certainly outdated and may only used for testing purposes.
+* **Important:** If you want to use the Zeus Tracker IP Block List please download the last version from abuse.ch and generate the settings file by yourself. The version here is certainly outdated and should only be used for testing purposes.
