@@ -23,7 +23,7 @@ Then go on:
 If you find an error, spelling mistake or other annoying stuff feel free to open an issue or even create a pull request.
 Even if you see issues in any markdown file you can make me aware of it.
 
-More information and guidelines for contributing you can find in the [CONTRIBUTING.md] (https://github.com/rugk/ESET-Firewall-Rules-Generator/blob/master/Contributing.md).
+More information and guidelines for contributing you can find in the [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## More information
 You may find more information about this tool in the [thread in the ESET Forum] (https://forum.eset.com/index.php?showtopic=4158).
