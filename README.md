@@ -1,10 +1,19 @@
+### Discontinued project
+
+This project has been **abandonded**, due to various reasons, but mainly lack of interest/users.
+If anyone wants to continue this project, feel free to fork it and contact me. In any case, this code will stay here.
+
+The project is [incomaptible with v9 or higher](https://github.com/rugk/ESET-Firewall-Rules-Generator/issues/1) of the ESET products.
+
+----
+
 # ESET-Firewall-Rules-Generator
-This is a small tool for [ESET Smart Security] (https://forum.eset.com/forum/23-eset-smart-security/) which allows an easy creation of a firewall rules with many IPs.
+This is a small tool for [ESET Smart Security](https://forum.eset.com/forum/23-eset-smart-security/) which allows an easy creation of a firewall rules with many IPs.
 
 ## How to build
 You need to download the following components. It only works on Windows.
-* [AutoIt] (https://www.autoitscript.com) v 3.3.12.0
-* [SciTE4AutoIt3] (https://www.autoitscript.com/site/autoit-script-editor/downloads/) or (just) AutoItWrapper v 15.503.1200.2 (updated 5/4/2015)
+* [AutoIt](https://www.autoitscript.com) v 3.3.12.0
+* [SciTE4AutoIt3](https://www.autoitscript.com/site/autoit-script-editor/downloads/) or (just) AutoItWrapper v 15.503.1200.2 (updated 5/4/2015)
 
 If you are unsure which version to download just download the newest version.
 Even if I did not listed the newest version here it may work with the newest one.
@@ -26,4 +35,4 @@ Even if you see issues in any markdown file you can make me aware of it.
 More information and guidelines for contributing you can find in the [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## More information
-You may find more information about this tool in the [thread in the ESET Forum] (https://forum.eset.com/index.php?showtopic=4158).
+You may find more information about this tool in the [thread in the ESET Forum](https://forum.eset.com/index.php?showtopic=4158).
